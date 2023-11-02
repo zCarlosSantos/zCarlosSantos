@@ -13,8 +13,6 @@ Olá! Eu sou o Carlos, técnico em eletrotécnica e estudante de engenharia elé
 
 ## Linguagem de Programação
 ![Java](https://img.shields.io/badge/Java-663300?style=for-the-badge&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-663300?style=for-the-badge&logo=javascript)
-![C](https://img.shields.io/badge/C-663300?style=for-the-badge&logo=c)
 
 ##  Linguagens de Marcação e Estilo
 
