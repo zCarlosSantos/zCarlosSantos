@@ -1,5 +1,5 @@
 # Carlos Rodrigo
-Olá! Eu sou o Carlos, técnico em eletrotécnica e estudante de engenharia elétrica, com projeção de carreira para área de eletrônica e programação. No presente momento estou focando em Backend e estou sempre disposto e entusiasmado á aprender novas tecnologias.
+Olá! Eu sou o Carlos, Técnico em Eletrotécnica e Estudante de Engenharia Elétrica, com projeção de carreira para área de eletrônica e programação. No presente momento estou focando em Back-end e estou sempre disposto e entusiasmado á aprender novas tecnologias.
 
 ## Conecte-se comigo
 [![GitHub](https://img.shields.io/badge/GitHub-663300?style=for-the-badge&logo=github&logoColor=000&text_color=)](https://github.com/zCarlosSantos)
