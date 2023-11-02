@@ -5,7 +5,7 @@ Olá! Eu sou o Carlos, técnico em eletrotécnica e estudante de engenharia elé
 [![GitHub](https://img.shields.io/badge/GitHub-663300?style=for-the-badge&logo=github&logoColor=000&text_color=)](https://github.com/zCarlosSantos)
 
 ## Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-663300?style=for-the-badge&logo=linkedin&logoColor=0E76A8)]((https://www.linkedin.com/in/carlos-rodrigo-1508b9299/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-663300?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/carlos-rodrigo-1508b9299/))
 
 ## Habilidades
 [![GitHub](https://img.shields.io/badge/GitHub-663300?style=for-the-badge&logo=github&logoColor=000)](https://docs.github.com/)
